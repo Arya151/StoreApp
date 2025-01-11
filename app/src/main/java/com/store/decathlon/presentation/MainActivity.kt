@@ -1,4 +1,4 @@
-package com.store.decathlon
+package com.store.decathlon.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
