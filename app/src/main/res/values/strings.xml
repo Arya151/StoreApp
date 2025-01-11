@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StoreApp</string>
+
+
+    <string-array name="sort_options">
+        <item>Sort by Price</item>
+        <item>Sort by Name</item>
+    </string-array>
+</resources>
